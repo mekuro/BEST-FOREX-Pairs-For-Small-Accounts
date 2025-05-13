@@ -35,7 +35,7 @@ These pairs offer low spreads, high liquidity, and controlled volatility — per
 
 All the brokers below support micro or cent accounts, allow deposits under \$100, and offer competitive spreads — perfect for small traders.
 
-| Broker      | Min Deposit | Micro/Cent Account | Regulation  | Affiliate Link                                                                                         |
+| Broker      | Min Deposit | Micro/Cent Account | Regulation  | Link                                                                                         |
 | ----------- | ----------- | ------------------ | ----------- | ------------------------------------------------------------------------------------------------------ |
 | Exness      | \$10        | ✅ Yes              | FSCA, FCA   | [Join Exness](https://one.exnesstrack.org/a/english23)                                                 |
 | XM          | \$5         | ✅ Yes              | FSCA, ASIC  | [Try XM](https://clicks.pipaffiliates.com/c?c=589901&l=en&p=0)                                         |
